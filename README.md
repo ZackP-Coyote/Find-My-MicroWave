@@ -32,3 +32,5 @@ Functionality: Displays a web scene of CSUSB campus
 2. SMNP - Update what we have to fit this iteration
 3. Instruction Manual - Screenshots of working app with description. 
 4. Maintenance Manual - Details file structure and file description. 
+
+###### *Copied from original repository from Miguel Galvez (mg2812746)*
