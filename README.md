@@ -33,4 +33,4 @@ Functionality: Displays a web scene of CSUSB campus
 3. Instruction Manual - Screenshots of working app with description. 
 4. Maintenance Manual - Details file structure and file description. 
 
-###### *Copied from original repository from Miguel Galvez (mg2812746)*
+###### *Copied from original repository by Miguel Galvez (mg2812746)*
